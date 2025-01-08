@@ -4,7 +4,7 @@ Projeto de site para aluguel de boardgames, com interface interativa que permite
 
 ## 📸 Demonstração
 
-![Demonstração do site](./caminho/para/screenshot.png)
+![Demonstração do site](.alu-games\alugames\img\Captura de tela 2025-01-08 152217.png)
 
 ## ✨ Funcionalidades
 
